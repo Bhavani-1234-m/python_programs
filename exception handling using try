@@ -1,0 +1,6 @@
+try:
+    print(x)
+except  NameError:
+    print("variables x is not defined")
+except:
+    print("something went wrong")
