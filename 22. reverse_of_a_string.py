@@ -1,0 +1,5 @@
+N=input()
+D=list(N)
+D.reverse()
+D1=” “.join(D)
+Print(D1)
